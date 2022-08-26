@@ -1,0 +1,2523 @@
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 1.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 2.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:op op6 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:ETF estimated runtime: 0.000009
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 1.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 2.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:op op6 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:ETF estimated runtime: 0.000009
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 8.000000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 1.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 2.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:op op6 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_sct:SCT estimated runtime: 0.000009
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 8.000000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 1.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 2.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:op op6 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_sct:SCT estimated runtime: 0.000009
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 8.000000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 1.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 2.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:op op6 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_sct:SCT estimated runtime: 0.000009
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 8.000000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 1.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 2.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 1B 
+ 	Available mem = 3B 
+ 	Peak mem = 1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 3B 
+ 	Available mem = 1B 
+ 	Peak mem = 3B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:op op6 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 4B 
+ 	Available mem = 0B 
+ 	Peak mem = 4B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_sct:SCT estimated runtime: 0.000009
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 12.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 1
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:ETF estimated runtime: 0.000014
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 12.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 1
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_sct:SCT estimated runtime: 0.000014
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 12.000067
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 1
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_sct:SCT estimated runtime: 0.000014
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 12.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 1
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 4.0 started
+INFO:m_etf:op op4 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 5.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_sct:SCT estimated runtime: 0.000014
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op5 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op8 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op7 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op9 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_sct:SCT estimated runtime: 0.000029
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op1 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op5 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op8 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op7 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op9 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_sct:SCT estimated runtime: 0.000029
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_sct:SCT estimated runtime: 0.000029
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_etf:ETF estimated runtime: 0.000029
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_etf:ETF estimated runtime: 0.000029
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_etf:ETF estimated runtime: 0.000029
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_etf:ETF estimated runtime: 0.000029
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_sct:SCT estimated runtime: 0.000029
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_sct:SCT estimated runtime: 0.000029
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_sct:SCT estimated runtime: 0.000029
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 21.0 started
+INFO:m_etf:op op5 placed on device 3
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 27.0 started
+INFO:m_sct:SCT estimated runtime: 0.000027
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 21.0 started
+INFO:m_etf:op op5 placed on device 3
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 27.0 started
+INFO:m_sct:SCT estimated runtime: 0.000027
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 21.0 started
+INFO:m_etf:op op5 placed on device 3
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 27.0 started
+INFO:m_sct:SCT estimated runtime: 0.000027
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 25.666667
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 4
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 6.0 started
+INFO:m_etf:Timestamp 7.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 8.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:op op4 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.01B 
+ 	Available mem = 3.99B 
+ 	Peak mem = 0.01B 
+ -------------
+INFO:m_etf:Timestamp 16.0 started
+INFO:m_etf:op op7 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 17.0 started
+INFO:m_etf:op op6 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.03B 
+ 	Available mem = 3.97B 
+ 	Peak mem = 0.03B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:op op8 placed on device 2
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.02B 
+ 	Available mem = 3.98B 
+ 	Peak mem = 0.02B 
+ -------------
+INFO:m_etf:Timestamp 23.0 started
+INFO:m_etf:op op5 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.04B 
+ 	Available mem = 3.96B 
+ 	Peak mem = 0.04B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_etf:Timestamp 26.0 started
+INFO:m_etf:Timestamp 29.0 started
+INFO:m_sct:SCT estimated runtime: 0.000029
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct:# favorite child: 1
+INFO:m_sct:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct:SCT estimated runtime: 0.000020
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_etf:ETF estimated runtime: 0.000020
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_etf:ETF estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 17.000000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 11.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 3
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.500000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 17.750000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 13.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000018
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 12.0 started
+INFO:m_etf:op op2 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_etf:ETF estimated runtime: 0.000020
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:Timestamp 22.0 started
+INFO:m_etf:ETF estimated runtime: 0.000022
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 17.750000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 10.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 18.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.200000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:# favorite child: 1
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 11.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 19.0 started
+INFO:m_etf:Timestamp 20.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000020
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:Timestamp 22.0 started
+INFO:m_etf:ETF estimated runtime: 0.000022
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:op op5 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 19.0 started
+INFO:m_etf:Timestamp 22.0 started
+INFO:m_etf:ETF estimated runtime: 0.000022
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.200000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:***** Fav child of 4 is 5
+INFO:m_sct_test:# favorite child: 2
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 11.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:op op5 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 19.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.4B 
+ 	Available mem = 3.6B 
+ 	Peak mem = 0.4B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000024
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.200000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:***** Fav child of 4 is 5
+INFO:m_sct_test:# favorite child: 2
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 11.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:op op5 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 19.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.4B 
+ 	Available mem = 3.6B 
+ 	Peak mem = 0.4B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000024
+INFO:m_sct_v1:Start LP solver.
+INFO:m_sct_v1:LP solver finished. Relaxed makespan soultion: 18.200000
+INFO:m_sct_v1:Favorite child round threshold: 0.5
+INFO:m_sct_test:***** Fav child of 1 is 2
+INFO:m_sct_test:***** Fav child of 4 is 5
+INFO:m_sct_test:# favorite child: 2
+INFO:m_sct_test:# favorite child changes: 0
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 11.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:op op5 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 19.0 started
+INFO:m_etf:op op3 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.4B 
+ 	Available mem = 3.6B 
+ 	Peak mem = 0.4B 
+ -------------
+INFO:m_etf:Timestamp 24.0 started
+INFO:m_sct_test:SCT estimated runtime: 0.000024
+INFO:m_etf:Timestamp 0 started
+INFO:m_etf:op op0 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:op op1 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.1B 
+ 	Available mem = 3.9B 
+ 	Peak mem = 0.1B 
+ -------------
+INFO:m_etf:Timestamp 9.0 started
+INFO:m_etf:op op4 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:op op3 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.2B 
+ 	Available mem = 3.8B 
+ 	Peak mem = 0.2B 
+ -------------
+INFO:m_etf:Timestamp 14.0 started
+INFO:m_etf:op op2 placed on device 1
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 15.0 started
+INFO:m_etf:op op5 placed on device 0
+INFO:m_etf:	Memory stats: 
+ 	Max mem = 4B 
+ 	Used mem = 0.3B 
+ 	Available mem = 3.7B 
+ 	Peak mem = 0.3B 
+ -------------
+INFO:m_etf:Timestamp 19.0 started
+INFO:m_etf:Timestamp 22.0 started
+INFO:m_etf:ETF estimated runtime: 0.000022

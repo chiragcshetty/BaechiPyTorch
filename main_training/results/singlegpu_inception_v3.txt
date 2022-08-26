@@ -1,0 +1,54 @@
+Date-Time:2022-08-06 02:23:58.264830
+batch_size = 64
+STEP TIME(ms) = 455.8025466071235
+Memory per usuage device:
+	 GPU-0: used= 0B, peaked= 0B
+	 GPU-1: used= 0B, peaked= 0B
+	 GPU-2: used= 277.89MB, peaked= 6.2GB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:24:18.208487
+batch_size = 64
+STEP TIME(ms) = 457.67770873175726
+Memory per usuage device:
+	 GPU-0: used= 0B, peaked= 0B
+	 GPU-1: used= 0B, peaked= 0B
+	 GPU-2: used= 277.89MB, peaked= 6.2GB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:24:38.330593
+batch_size = 64
+STEP TIME(ms) = 458.8166077931722
+Memory per usuage device:
+	 GPU-0: used= 0B, peaked= 0B
+	 GPU-1: used= 0B, peaked= 0B
+	 GPU-2: used= 277.89MB, peaked= 6.2GB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:29:24.236123
+batch_size = 64
+STEP TIME(ms) = 459.21352174546985
+Memory per usuage device:
+	 GPU-0: used= 0B, peaked= 0B
+	 GPU-1: used= 0B, peaked= 0B
+	 GPU-2: used= 277.89MB, peaked= 6.2GB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:29:46.141739
+batch_size = 64
+STEP TIME(ms) = 460.2775043911404
+Memory per usuage device:
+	 GPU-0: used= 0B, peaked= 0B
+	 GPU-1: used= 0B, peaked= 0B
+	 GPU-2: used= 277.89MB, peaked= 6.2GB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:30:08.109893
+batch_size = 64
+STEP TIME(ms) = 460.8622921837701
+Memory per usuage device:
+	 GPU-0: used= 0B, peaked= 0B
+	 GPU-1: used= 0B, peaked= 0B
+	 GPU-2: used= 277.89MB, peaked= 6.2GB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*

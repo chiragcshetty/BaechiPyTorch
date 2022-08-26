@@ -1,0 +1,78 @@
+Model: inception_v3
+Date-Time:2022-08-06 02:24:42.025648
+batch_size = 64
+Single GPU run
+AVG STEP TIME(ms) = 457.4322877106843
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Model: inception_v3
+Date-Time:2022-08-06 02:26:21.663140
+batch_size = 64
+Baechi: etf
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+AVG STEP TIME(ms) = 466.0003538484927
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Model: inception_v3
+Date-Time:2022-08-06 02:28:01.996485
+batch_size = 64
+Baechi: sct
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+AVG STEP TIME(ms) = 462.4695424680356
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Model: inception_v3
+Date-Time:2022-08-06 02:28:42.321907
+batch_size = 64
+Baechi: topo
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+AVG STEP TIME(ms) = 533.273802863227
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Model: inception_v3
+Date-Time:2022-08-06 02:30:11.708180
+batch_size = 64
+Single GPU run
+AVG STEP TIME(ms) = 460.1177727734601
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Model: inception_v3
+Date-Time:2022-08-06 02:31:53.821729
+batch_size = 64
+Baechi: etf
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+AVG STEP TIME(ms) = 465.35464569374363
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Model: inception_v3
+Date-Time:2022-08-06 02:33:33.925902
+batch_size = 64
+Baechi: sct
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+AVG STEP TIME(ms) = 466.54611163669165
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Model: inception_v3
+Date-Time:2022-08-06 02:35:17.762525
+batch_size = 64
+Baechi: topo
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+AVG STEP TIME(ms) = 537.0222021032263
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
