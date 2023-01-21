@@ -1,11 +1,11 @@
 # Baechi-PyTorch: Automated Model Parallelism in PyTorch
 
-<span style="color: red">What?</span> To train large DNN's over GPUs with limited memory, the model must be split across multiple devices - Model Parallelism. Similarly, training times can be reduced by distributing parallel branches on the model across the devices. 
+<span style="color: red">**What?**</span> To train large DNN's over GPUs with limited memory, the model must be split across multiple devices - Model Parallelism. Similarly, training times can be reduced by distributing parallel branches on the model across the devices. 
 
-<span style="color: red">Why?</span> Currently, the process is manual and largely based on heuristics, as we demonstrate [here](https://github.com/chiragcshetty/BaechiPyTorch/blob/669d3d241a9b95dea957c4ccc2ec585ec7ccb15e/docs/Baechi_pytorch_system_design.pdf) (Section 1.2) 
+<span style="color: red">**Why?**</span> Currently, the process is manual and largely based on heuristics, as we demonstrate [here](https://github.com/chiragcshetty/BaechiPyTorch/blob/669d3d241a9b95dea957c4ccc2ec585ec7ccb15e/docs/Baechi_pytorch_system_design.pdf) (Section 1.2) 
 
 
-<span style="color: red">How?</span> In Baechi, we adopt an algorithmic approach to the placement problem for running DNN training graphs on a small cluster of memory-constrained devices. **Baechi-PyTorch , automatically and optimally splits the model, given a number of GPU devices and their memory capacities.** 
+<span style="color: red">**How?**</span> In Baechi, we adopt an algorithmic approach to the placement problem for running DNN training graphs on a small cluster of memory-constrained devices. **Baechi-PyTorch , automatically and optimally splits the model, given a number of GPU devices and their memory capacities.** 
 
 Please find the design and usage information for Baechi-PyTorch here: [link](https://scientific-goldfish-3af.notion.site/Baechi-PyTorch-8703ed020ce04f83b956231743b4e898)
 
