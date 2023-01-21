@@ -1,4 +1,6 @@
-# BaechiPyTorch
+# Baechi-PyTorch: Automated Model Parallelism in PyTorch
+
+
 
 
 Deep Neural Networks can be challenging or impossible to train when either devices have limited memory, or the models are large. Splitting the model graph across multiple devices, today, is largely heuristic based and manual. We present the Baechi system, where we adopt an algorithmic approach to the placement problem for running machine learning training graphs on a small cluster of memory-constrained devices. **Baechi-PyTorch , automatically and optimally splits the model, given a number of GPU devices and their memory capacities.** 
