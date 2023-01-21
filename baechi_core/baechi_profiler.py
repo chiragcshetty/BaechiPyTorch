@@ -9,6 +9,8 @@ import config
 
 _LOGGER = logger.get_logger(__file__, level=logger.INFO)
 
+## Credits: parts of the profiler were inspired by Pipedream project: https://github.com/msr-fiddle/pipedreamhttps://github.com/msr-fiddle/pipedream
+
 class SubModuleNode:
     """
     This class represents a submodel (ex. conv2d layer) in the given model (ex. inception_v3). 
