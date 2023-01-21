@@ -1,0 +1,112 @@
+Date-Time:2022-08-06 02:26:50.128233
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 460.3096908993191
+Memory per usuage device:
+	 GPU-0: used= 248.28MB, peaked= 6.13GB
+	 GPU-1: used= 26.27MB, peaked= 162.72MB
+	 GPU-2: used= 131.2MB, peaked= 131.2MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:27:24.008162
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 458.85629124111597
+Memory per usuage device:
+	 GPU-0: used= 268.32MB, peaked= 6.36GB
+	 GPU-1: used= 6.77MB, peaked= 60.78MB
+	 GPU-2: used= 131.2MB, peaked= 131.2MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:27:57.953247
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 468.2426452636719
+Memory per usuage device:
+	 GPU-0: used= 246.19MB, peaked= 6.11GB
+	 GPU-1: used= 28.16MB, peaked= 204.6MB
+	 GPU-2: used= 131.2MB, peaked= 131.2MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:32:24.552044
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 463.89394336276587
+Memory per usuage device:
+	 GPU-0: used= 248.28MB, peaked= 6.13GB
+	 GPU-1: used= 26.27MB, peaked= 156.72MB
+	 GPU-2: used= 131.2MB, peaked= 131.2MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:32:58.605849
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 475.05270110236273
+Memory per usuage device:
+	 GPU-0: used= 246.62MB, peaked= 6.18GB
+	 GPU-1: used= 28.16MB, peaked= 204.6MB
+	 GPU-2: used= 131.2MB, peaked= 131.2MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-06 02:33:30.111603
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 460.6916904449463
+Memory per usuage device:
+	 GPU-0: used= 248.28MB, peaked= 6.35GB
+	 GPU-1: used= 26.27MB, peaked= 150.72MB
+	 GPU-2: used= 131.2MB, peaked= 131.2MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-26 09:54:08.843755
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 536.284261279636
+Memory per usuage device:
+	 GPU-0: used= 248.28MB, peaked= 6.14GB
+	 GPU-1: used= 26.27MB, peaked= 156.72MB
+	 GPU-2: used= 132.24MB, peaked= 132.24MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Date-Time:2022-08-26 10:01:33.644477
+batch_size = 64
+memory factor = 1( mem per device =6.44GB)
+comm_factor = 1.2
+perturb factor = 0.0
+no of gpus = 4
+assigner type = gpu_topo_based
+STEP TIME(ms) = 580.1736248864067
+Memory per usuage device:
+	 GPU-0: used= 248.28MB, peaked= 6.14GB
+	 GPU-1: used= 26.27MB, peaked= 156.72MB
+	 GPU-2: used= 132.24MB, peaked= 132.24MB
+	 GPU-3: used= 0B, peaked= 0B
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
